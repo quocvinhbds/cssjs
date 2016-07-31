@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://hungthinhpro.com.vn/du-an/can-ho-richmond-city-new-standand-for-living-27.html' target='_blank'><img src='https://lh3.googleusercontent.com/-JR3zWkBBOVc/V5nbjDTD8XI/AAAAAAAABh0/qECDdK9qC7QAjRyp1giqE7dciz7A1RF8QCL0B/w530-d-h195-p-rw/du-an-can-ho-richmond-city.jpg' width='500px'/><br/>Căn hộ giá tốt tại Bình Thạnh</a>. Hotline Chủ đầu tư: 0919 39 75 38 <
+			jQuery("#myModal").html("<a href='http://hungthinhpro.com.vn/du-an/can-ho-richmond-city-new-standand-for-living-27.html' target='_blank'><img src='https://lh3.googleusercontent.com/vUS0FcbTlhuGQJRBCl4oEG_USmksjoNcU5UIVHxHDQMPUcVwrX-0BQ1kqOdwEC7bYUJm1KPH=w1366-h768-rw-no' width='500px'/><br/>CĂN HỘ RICHMOND CITY BÌNH THẠNH</a>. Hotline Chủ đầu tư: 0919 39 75 38 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
