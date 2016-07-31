@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("http://hungthinhpro.com.vn/du-an/can-ho-richmond-city-new-standand-for-living-27.html' target='_blank'><img src='https://lh3.googleusercontent.com/Ctb0l2ZD-hkpLHLtZD-e2uz4W8e_OkDdqNCy0NuOJKchYDzl-ROL3UpMqI-xTWqS0mRVIg5x=w1366-h768-rw-no' width='500px'/><br/>Mở bán căn hộ RichMond City Bình Thạnh</a>. Giá cực tốt từ Chủ đầu tư Hưng Thịnh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://hungthinhpro.com.vn/du-an/can-ho-richmond-city-new-standand-for-living-27.html' target='_blank'><img src='https://lh3.googleusercontent.com/-JR3zWkBBOVc/V5nbjDTD8XI/AAAAAAAABh0/qECDdK9qC7QAjRyp1giqE7dciz7A1RF8QCL0B/w530-d-h195-p-rw/du-an-can-ho-richmond-city.jpg' width='500px'/><br/>Căn hộ giá tốt tại Bình Thạnh</a>. Hotline Chủ đầu tư: 0919 39 75 38 <
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
