@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://canhoquan7giatotnhat8.blogspot.com/' target='_blank'><img src='https://lh3.googleusercontent.com/-EPdWf2b8f7I/V5ijvYZCSeI/AAAAAAAABeY/wjCb_OrFjo4miyRO9nDFDTwCIcUBCARiQCL0B/s500-d-p-rw/can-ho-saigon-mia-trung-son.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("http://hungthinhpro.com.vn/du-an/can-ho-richmond-city-new-standand-for-living-27.html' target='_blank'><img src='https://lh3.googleusercontent.com/Ctb0l2ZD-hkpLHLtZD-e2uz4W8e_OkDdqNCy0NuOJKchYDzl-ROL3UpMqI-xTWqS0mRVIg5x=w1366-h768-rw-no' width='500px'/><br/>Mở bán căn hộ RichMond City Bình Thạnh</a>. Giá cực tốt từ Chủ đầu tư Hưng Thịnh. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
